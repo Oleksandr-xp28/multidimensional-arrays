@@ -43,7 +43,7 @@ int main() {
 	for (size_t j = 0; j < row; j++) {
 		cout << "Sum of elements in column " << j + 1 << ": " << sumColumn[j] << endl;
 	}
-	cout << std::endl;
+	cout << endl;
 
 	cout << "Sum of all elements: " << totalSum << endl;
 
